@@ -28,7 +28,10 @@ Com base no valor de XP, o programa deve utilizar uma **estrutura de decisão** 
 | Entre 9.001 e 10.000        | Imortal     |
 | Maior ou igual a 10.001     | Radiante    |
 
+> **Observação:**  
+> Para evitar valores sem classificação (como XP = 1000), os intervalos foram ajustados no código de forma lógica e contínua.
+
 ## 🖥️ Saída Esperada
 
 Ao final da execução, o programa deve exibir a seguinte mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
+
