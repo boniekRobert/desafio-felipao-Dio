@@ -34,4 +34,6 @@ Com base no valor de XP, o programa deve utilizar uma **estrutura de decisão** 
 ## 🖥️ Saída Esperada
 
 Ao final da execução, o programa deve exibir a seguinte mensagem:
+O Herói de nome {nome} está no nível de {nivel}
+
 
