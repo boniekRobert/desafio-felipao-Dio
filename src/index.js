@@ -1,3 +1,6 @@
+// Classificador de Nível de Herói
+// Recebe nome e XP e define o nível do herói com base na experiência
+
 let nome = "Sub-Zero";
 let xp = 4999;
 let xpResultado;
