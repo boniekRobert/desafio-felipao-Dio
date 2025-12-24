@@ -2,6 +2,7 @@
 
 ## 📌 Tecnologias e Conceitos Utilizados
 
+- JavaScript
 - Variáveis  
 - Operadores  
 - Laços de repetição  
